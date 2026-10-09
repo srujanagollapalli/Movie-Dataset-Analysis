@@ -1,0 +1,30 @@
+
+MOVIE DATASET ANALYSIS REPORT
+
+1. PROJECT OVERVIEW
+This project analyzes movie data using Python, Pandas and Matplotlib.
+
+2. DATASET SUMMARY
+Total Movies: 40
+Total Columns: 8
+Average Rating: 6.72
+Average Runtime: 130.28 minutes
+Average Revenue: 430.54 million USD
+
+3. KEY FINDINGS
+Most Common Genre: Drama
+Highest Rated Movie: Starbound
+Highest Revenue Movie: The Long Road
+Most Voted Movie: Dream Makers
+
+4. DATA QUALITY
+Missing Values: 0
+Duplicate Rows: 0
+
+5. CONCLUSION
+The analysis explores movie ratings, genres, revenue, release years,
+votes and relationships between numerical variables.
+
+IMPORTANT:
+This project uses a sample dataset for demonstration.
+The results should not be treated as verified real-world movie statistics.
